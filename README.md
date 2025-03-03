@@ -18,8 +18,9 @@
 
 # 🖥️ Usage
 	Run the program with the following syntax:
-	``` C
+	```C
  	./pipex infile "command1" "command2" outfile
+	```
 
 # Example:
 	./pipex input.txt "grep hello" "sort" output.txt
