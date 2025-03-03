@@ -24,17 +24,17 @@
 	./pipex input.txt "grep hello" "sort" output.txt
 
 # Project Structure
-    pipex.c: Main logic for parsing arguments and setting up pipes.
-    utils.c: Helper functions (e.g., error handling, string manipulation).
+    - pipex.c: Main logic for parsing arguments and setting up pipes.
+    - utils.c: Helper functions (e.g., error handling, string manipulation).
 
 # Learning Outcomes
-    Understanding UNIX processes and inter-process communication (pipes).
-    File descriptor management with dup2().
-    Command execution in a child process using execve().
+    - Understanding UNIX processes and inter-process communication (pipes).
+    - File descriptor management with dup2().
+    - Command execution in a child process using execve().
 
 # Requirements
-    A UNIX-based system (Linux, macOS).
-    GCC or another C compiler.
+    - A UNIX-based system (Linux, macOS).
+    - GCC or another C compiler.
 
 # Author
 	[kolani Biman / b-kolani]
