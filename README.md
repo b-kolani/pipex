@@ -36,5 +36,5 @@
     A UNIX-based system (Linux, macOS).
     GCC or another C compiler.
 
-Author
-[kolani Biman / b-kolani]
+# Author
+	[kolani Biman / b-kolani]
