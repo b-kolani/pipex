@@ -15,6 +15,15 @@
     Handles basic piping between two commands.
     Supports error management (e.g., file not found, command not executable).
     [Optional Bonus Features: e.g., "Supports multiple pipes" or "Implements here_doc (<< LIMITER) functionality."]
+## 🚀 Installation
+    Clone the repo:
+      git clone https://github.com/b-kolani/pipex.git
+    Enter the directory:
+      cd pipex
+
+## Compile:
+    make
+    make bonus for bonus part.
 
 # 🖥️ Usage
 	Run the program with the following syntax:
