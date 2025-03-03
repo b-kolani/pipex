@@ -14,7 +14,7 @@
 # Features
     Handles basic piping between two commands.
     Supports error management (e.g., file not found, command not executable).
-    [Optional Bonus Features: Add if applicable, e.g., "Supports multiple pipes" or "Implements here_doc (<< LIMITER) functionality."]
+    [Optional Bonus Features: e.g., "Supports multiple pipes" or "Implements here_doc (<< LIMITER) functionality."]
 
 # Usage
 	Run the program with the following syntax:
